@@ -16,16 +16,6 @@
 </div>
 
 
-## ⚡ GitHub Stats
-
-<img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadron404&layout=compact&count_private=true&theme=tokyonight" />
-
-<img  align="left" src="https://github-readme-stats.vercel.app/api?username=hadron404&show_icons=true&count_private=true&theme=tokyonight" />
-
-
-
-
-
 ## 🔭 Work
 
 - 🚀 I use daily:
@@ -69,8 +59,14 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+## ⚡ GitHub Stats
 
-## ⚡ Recent Activity
+<img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadron404&layout=compact&count_private=true&theme=tokyonight" />
+
+<img  align="left" src="https://github-readme-stats.vercel.app/api?username=hadron404&show_icons=true&count_private=true&theme=tokyonight" />
+
+
+## :construction: Recent Activity
 
 <!--START_SECTION:activity-->
 
