@@ -16,9 +16,17 @@
 </div>
 
 
+## :construction: Recent Activity
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+
 ## 🔭 Work
 
-- 🚀 I use daily:
+- 🚀 I use daily: 
+<br>
   ![Java](https://img.shields.io/badge/-Java-3f4441?style=flat-square&logo=java) 
 ![IDEA](https://img.shields.io/badge/-IDEA-000000?style=flat-square&logo=intellij-idea) 
   ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring)
@@ -30,6 +38,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
 
 - 🔭 I work using:
+<br>
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Docker](https://img.shields.io/badge/-Python-8fcfd1?style=flat-square&logo=Python)
@@ -42,6 +51,7 @@
 ![Shell](https://img.shields.io/badge/Shell-black?style=flat-square&logo=Shell)
 
 - ⚙️ I also use and work: 
+<br>
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular) 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
@@ -51,6 +61,7 @@
 
 
 - 🌱 Learning all about:
+<br>
 ![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=Jenkins) 
 ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=flat-square&logo=Node.js) 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)  
@@ -64,11 +75,4 @@
 <img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadron404&layout=compact&count_private=true&theme=tokyonight" />
 
 <img  align="left" src="https://github-readme-stats.vercel.app/api?username=hadron404&show_icons=true&count_private=true&theme=tokyonight" />
-
-
-## :construction: Recent Activity
-
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
 
