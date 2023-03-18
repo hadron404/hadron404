@@ -18,9 +18,9 @@
 
 ## ⚡ GitHub Stats
 
-<img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadron404&layout=compact&count_private=true&theme=tokyonight" />
+<img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadron404&layout=compact&count_private=true&theme=tokyonight" />
 
-<img  align="right" src="https://github-readme-stats.vercel.app/api?username=hadron404&show_icons=true&count_private=true&theme=tokyonight" />
+<img  align="left" src="https://github-readme-stats.vercel.app/api?username=hadron404&show_icons=true&count_private=true&theme=tokyonight" />
 
 
 
@@ -29,15 +29,15 @@
 ## 🔭 Work
 
 - 🚀 I use daily:
-![Java](https://img.shields.io/badge/-Java-3f4441?style=flat-square&logo=java) 
+  ![Java](https://img.shields.io/badge/-Java-3f4441?style=flat-square&logo=java) 
 ![IDEA](https://img.shields.io/badge/-IDEA-000000?style=flat-square&logo=intellij-idea) 
+  ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring)
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=springboot)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring)
 ![SpringCloud](https://img.shields.io/badge/-SpringCloud-6DB33F?style=flat-square&logo=spring)
-![MySQL](https://img.shields.io/badge/MySQL-003B57?style=flat-square&logo=MySQL)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes)
+  ![MySQL](https://img.shields.io/badge/MySQL-003B57?style=flat-square&logo=MySQL)
+  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes)
+  ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
-![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 
 - 🔭 I work using:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
@@ -65,7 +65,7 @@
 ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=flat-square&logo=Node.js) 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)  
 
-- 📫 How to reach me:  [![Gmail Badge](https://img.shields.io/badge/-im.mr.zhou.cn@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:im.mr.zhou.cn@gmail.com)](mailto:im.mr.zhou.cn@gmail.com)
+- 📫 How to reach me:  [![Gmail Badge](https://img.shields.io/badge/-im.mr.zhou.cn@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:im.mr.zhou.cn@gmail.com)](mailto:im.mr.zhou.cn@gmail.com)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
