@@ -28,14 +28,14 @@
 - 🚀 I use daily: 
 
   ![Java](https://img.shields.io/badge/-Java-3f4441?style=flat-square&logo=java) 
-![IDEA](https://img.shields.io/badge/-IDEA-000000?style=flat-square&logo=intellij-idea) 
-  ![Spring](https://img.shields.io/badge/-Spring-ffffff?style=flat-square&logo=spring)
-![SpringBoot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=springboot)
-![SpringCloud](https://img.shields.io/badge/-SpringCloud-6DB33F?style=flat-square&logo=spring)
+![IDEA](https://img.shields.io/badge/-IDEA-3f4441?style=flat-square&logo=intellij-idea) 
+  ![Spring](https://img.shields.io/badge/-Spring-3f4441?style=flat-square&logo=spring)
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-3f4441?style=flat-square&logo=springboot)
+![SpringCloud](https://img.shields.io/badge/-SpringCloud-3f4441?style=flat-square&logo=spring)
   ![MySQL](https://img.shields.io/badge/MySQL-003B57?style=flat-square&logo=MySQL)
-  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes)
+  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-3f4441?style=flat-square&logo=Kubernetes)
   ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+![Git](https://img.shields.io/badge/-Git-3f4441?style=flat-square&logo=git)
 
 - 🔭 I work using:
 
