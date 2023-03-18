@@ -26,7 +26,7 @@
 ## 🔭 Work
 
 - 🚀 I use daily: 
-<br>
+
   ![Java](https://img.shields.io/badge/-Java-3f4441?style=flat-square&logo=java) 
 ![IDEA](https://img.shields.io/badge/-IDEA-000000?style=flat-square&logo=intellij-idea) 
   ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring)
@@ -38,8 +38,8 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
 
 - 🔭 I work using:
-<br>
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Docker](https://img.shields.io/badge/-Python-8fcfd1?style=flat-square&logo=Python)
 ![Elasic-Stack](https://img.shields.io/badge/ElasticStack-005571?style=flat-square&logo=elasticstack)
@@ -51,8 +51,8 @@
 ![Shell](https://img.shields.io/badge/Shell-black?style=flat-square&logo=Shell)
 
 - ⚙️ I also use and work: 
-<br>
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular) 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
@@ -61,14 +61,13 @@
 
 
 - 🌱 Learning all about:
-<br>
+
 ![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=Jenkins) 
 ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=flat-square&logo=Node.js) 
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb) 
 
 - 📫 How to reach me:  [![Gmail Badge](https://img.shields.io/badge/-im.mr.zhou.cn@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:im.mr.zhou.cn@gmail.com)](mailto:im.mr.zhou.cn@gmail.com)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 ## ⚡ GitHub Stats
 
