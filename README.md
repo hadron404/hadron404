@@ -62,11 +62,13 @@
 
 - 🌱 Learning all about:
 
-![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=Jenkins) 
+  ![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=Jenkins) 
 ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=flat-square&logo=Node.js) 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb) 
 
-- 📫 How to reach me:  [![Gmail Badge](https://img.shields.io/badge/-im.mr.zhou.cn@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:im.mr.zhou.cn@gmail.com)](mailto:im.mr.zhou.cn@gmail.com)
+- 📫 How to reach me: 
+
+  [![Gmail Badge](https://img.shields.io/badge/-im.mr.zhou.cn@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:im.mr.zhou.cn@gmail.com)](mailto:im.mr.zhou.cn@gmail.com)
 
 
 ## ⚡ GitHub Stats
