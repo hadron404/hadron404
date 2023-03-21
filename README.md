@@ -68,8 +68,8 @@
 
 - 📫 How to reach me: 
 
-  [![Gmail Badge](https://img.shields.io/badge/-im.mr.zhou.cn@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:im.mr.zhou.cn@gmail.com)](mailto:im.mr.zhou.cn@gmail.com)
-  [个人博客](https://hadron404.github.io/blog/)
+  [![Gmail Badge](https://img.shields.io/badge/-im.mr.zhou.cn@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:im.mr.zhou.cn@gmail.com)](mailto:im.mr.zhou.cn@gmail.com)  
+    [个人博客](https://hadron404.github.io/blog/)
 
 ## ⚡ GitHub Stats
 
