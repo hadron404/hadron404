@@ -12,6 +12,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: hadron404/github-activity-readme@master
+      - uses: hadron404/hadron404@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
