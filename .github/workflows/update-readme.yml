@@ -11,6 +11,6 @@ jobs:
     name: Update this repo's README with recent activity
 
     steps:
-      - uses: hadron404/hadron404@main
+      - uses: hadron404/social_readme@main
         env:
           GITHUB_TOKEN: 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
