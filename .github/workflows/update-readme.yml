@@ -14,4 +14,4 @@ jobs:
       - uses: actions/checkout@v2
       - uses: hadron404/hadron404@main
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: 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
