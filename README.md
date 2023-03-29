@@ -16,11 +16,11 @@
 </div>
 
 
-## :construction: Recent Activity
+## :construction: Recent Blog
 
-<!--START_SECTION:activity-->
+<!-- START_SECTION:blog -->
 
-<!--END_SECTION:activity-->
+<!-- END_SECTION:blog -->
 
 
 ## 🔭 Work
