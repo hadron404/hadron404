@@ -11,7 +11,6 @@ jobs:
     name: Update this repo's README with recent activity
 
     steps:
-      - uses: actions/checkout@v2
       - uses: hadron404/hadron404@main
         env:
           GITHUB_TOKEN: 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
